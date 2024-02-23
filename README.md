@@ -1,2 +1,0 @@
-# jynnsparkle
-Login page
